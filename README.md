@@ -1,0 +1,3 @@
+Simple python cli script, no dependencies.
+
+Made for personal use, sharing in case it helps someone.
